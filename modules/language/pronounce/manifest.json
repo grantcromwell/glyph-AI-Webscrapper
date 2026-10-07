@@ -1,0 +1,8 @@
+{
+  "name": "pronounce",
+  "school": "tongue",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/tongue/pronounce"],
+  "reads": "text",
+  "description": "Argos speaks. Reads the brain's glyph state + recall hits and produces plain English — no source pasting, no compose(). Pure template from glyph data."
+}

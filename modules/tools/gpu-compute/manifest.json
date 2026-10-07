@@ -1,0 +1,8 @@
+{
+  "name": "gpu-compute",
+  "school": "wild",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/wild/gpu-compute"],
+  "reads": "text",
+  "description": "Argos uses the GPU for accelerated computation. CUDA and Vulkan compute for simulation, FFT, and signal processing. Input: {action: \"info\"|\"simulate\"|\"fft\"|\"matrix\", kernel_type, params}"
+}

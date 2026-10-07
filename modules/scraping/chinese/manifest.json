@@ -1,0 +1,8 @@
+{
+  "name": "chinese",
+  "school": "scrying",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/scrying/chinese"],
+  "reads": "web",
+  "description": "Reads China in Chinese: Solidot (engineering/tech), People's Daily (human/state news), and Google News-zh (broad native) via blockless RSS."
+}

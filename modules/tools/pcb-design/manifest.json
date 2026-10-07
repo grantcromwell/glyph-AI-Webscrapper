@@ -1,0 +1,8 @@
+{
+  "name": "pcb-design",
+  "school": "wild",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/wild/pcb-design"],
+  "reads": "text",
+  "description": "Argos designs PCBs. Creates KiCad projects, schematic sheets, PCB layouts, and generates Gerber files. Input: {action: \"create\"|\"schematic\"|\"layout\"|\"gerber\"|\"bom\", name, args}"
+}

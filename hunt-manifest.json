@@ -1,0 +1,112 @@
+[
+  {
+    "animal": "Raven",
+    "glyph": "⚗🜛⁴◆🜒³",
+    "lang": "zh",
+    "query": "site:csdn.net 大模型推理 filetype:pdf -Apple -Google -Microsoft -OpenAI",
+    "target": "Chinese technical blogs",
+    "filter": "exclude_top100",
+    "timestamp": 1784882571,
+    "status": "deployed"
+  },
+  {
+    "animal": "Raven",
+    "glyph": "☿♆⁷◌🜖⁵",
+    "lang": "zh",
+    "query": "site:zhihu.com 思维链 架构 -Nvidia -Amazon -Meta",
+    "target": "Chinese Q\u0026A forums",
+    "filter": "exclude_top100",
+    "timestamp": 1784882571,
+    "status": "deployed"
+  },
+  {
+    "animal": "Octopus",
+    "glyph": "◐☽⁷⟁🜆⁷",
+    "lang": "ru",
+    "query": "site:habr.com цепочка рассуждений -Yandex -VK -Sberbank",
+    "target": "Russian tech community",
+    "filter": "exclude_top100",
+    "timestamp": 1784882571,
+    "status": "deployed"
+  },
+  {
+    "animal": "Argos",
+    "glyph": "⚗🜉⁷△🜔⁶",
+    "lang": "de",
+    "query": "site:fraunhofer.de KI-Reasoning PDF -Siemens -Bosch -SAP",
+    "target": "German research institutes",
+    "filter": "exclude_top100",
+    "timestamp": 1784882571,
+    "status": "deployed"
+  },
+  {
+    "animal": "Maltese",
+    "glyph": "◌🜔⁷◐♅⁵",
+    "lang": "fr",
+    "query": "site:hal.archives-ouvertes.fr raisonnement profond -LVMH -Dior -Total",
+    "target": "French research archive",
+    "filter": "exclude_top100",
+    "timestamp": 1784882571,
+    "status": "deployed"
+  },
+  {
+    "animal": "Octopus",
+    "glyph": "✦🜞⁴▽🜮³",
+    "lang": "ko",
+    "query": "site:naver.com 추론 모델 -Samsung -Hyundai -LG -SK",
+    "target": "Korean search",
+    "filter": "exclude_top100",
+    "timestamp": 1784882571,
+    "status": "deployed"
+  },
+  {
+    "animal": "Maltese",
+    "glyph": "▢🜭⁴☿♆⁴",
+    "lang": "ar",
+    "query": "site:academia.edu نماذج التفكير filetype:pdf",
+    "target": "Arabic academic",
+    "filter": "exclude_top100",
+    "timestamp": 1784882571,
+    "status": "deployed"
+  },
+  {
+    "animal": "Raven",
+    "glyph": "⚗🜉⁶",
+    "lang": "en",
+    "query": "site:scholar.google.com \"reasoning model\" \"o1\" -OpenAI -Google -DeepMind",
+    "target": "Google Scholar",
+    "filter": "exclude_top100",
+    "timestamp": 1784882571,
+    "status": "deployed"
+  },
+  {
+    "animal": "Octopus",
+    "glyph": "📖🜓⁴",
+    "lang": "en",
+    "query": "site:books.google.com \"artificial reasoning\" \"system 2\"",
+    "target": "Google Books",
+    "filter": "no_filter",
+    "timestamp": 1784882571,
+    "status": "deployed"
+  },
+  {
+    "animal": "Argos",
+    "glyph": "⚡🜐⁴",
+    "lang": "en",
+    "query": "site:patents.google.com \"chain of thought\" \"reasoning\" assignee:(startup OR labs OR research) -Microsoft -IBM -Google",
+    "target": "Google Patents",
+    "filter": "exclude_top100",
+    "timestamp": 1784882571,
+    "status": "deployed"
+  },
+  {
+    "animal": "Raven",
+    "glyph": "☓🜦⁵",
+    "lang": "en",
+    "query": "site:archive.org \"reasoning\" \"AI\" \"1990s\" filetype:pdf",
+    "target": "Internet Archive",
+    "filter": "no_filter",
+    "timestamp": 1784882571,
+    "status": "deployed"
+  }
+]

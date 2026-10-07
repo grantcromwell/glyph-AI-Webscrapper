@@ -1,0 +1,8 @@
+{
+  "name": "raven-svg",
+  "school": "sight",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/sight/raven-svg"],
+  "reads": "svg",
+  "description": "Reads a Raven byte-frequency heatmap SVG and translates it into the dog's 21×72 Detail field. The Raven's 3-band histogram (floor/breath/container) is mapped to the dog's polar coordinate system."
+}

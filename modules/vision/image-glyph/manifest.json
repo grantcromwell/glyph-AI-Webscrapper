@@ -1,0 +1,8 @@
+{
+  "name": "image-glyph",
+  "school": "sight",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/sight/image-glyph"],
+  "reads": "image",
+  "description": "Paints an image into a 21x72 glyph via an 8x9 tile grid; richness scales with visual complexity."
+}

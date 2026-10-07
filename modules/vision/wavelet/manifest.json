@@ -1,0 +1,8 @@
+{
+  "name": "wavelet",
+  "school": "sight",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/sight/wavelet"],
+  "reads": "image",
+  "description": "Multi-scale 2-D Haar decomposition of an image: lays detail energy into the glyph by position (→family) and scale (→subfamily ring). Exact pattern analysis on bones; the dog casts it to feel structure from broad masses to fine strokes."
+}

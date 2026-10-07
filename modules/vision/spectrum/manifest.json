@@ -1,0 +1,8 @@
+{
+  "name": "spectrum",
+  "school": "sight",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/sight/spectrum"],
+  "reads": "image",
+  "description": "2-D Fourier decomposition of an image: lays spectral energy into the glyph by geometry (orientation→family, radial frequency→subfamily). Exact pattern analysis on bones; the dog casts it on what its eye saw."
+}

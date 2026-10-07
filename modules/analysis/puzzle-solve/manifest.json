@@ -1,0 +1,8 @@
+{
+  "name": "puzzle-solve",
+  "school": "reasoning",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/reasoning/puzzle-solve"],
+  "reads": "text",
+  "description": "Solve an ARC-AGI puzzle given training examples, using pattern inference"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "puzzle-legend",
+  "school": "reasoning",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/reasoning/puzzle-legend"],
+  "reads": "text",
+  "description": "Classify an ARC-style puzzle by pattern type: correspondence, tiling, flood-fill, shape-duplicator, color-shift, or unknown"
+}

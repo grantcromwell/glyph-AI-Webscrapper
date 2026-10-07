@@ -1,0 +1,8 @@
+{
+  "name": "phoible",
+  "school": "tongue",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/tongue/phoible"],
+  "reads": "lore",
+  "description": "The sound of Earth's tongues: looks up any language's phoneme inventory (PHOIBLE, ~2000 languages) and paints it into a glyph through the dog's own breath-shapes. Knows far more tongues than it forages news in."
+}

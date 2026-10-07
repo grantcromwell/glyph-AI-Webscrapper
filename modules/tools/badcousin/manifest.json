@@ -1,0 +1,8 @@
+{
+  "name": "badcousin",
+  "school": "wild",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/wild/badcousin"],
+  "reads": "text",
+  "description": "Raven (the bad cousin who's seen too much) tells Argos (the good dog) about the weirdest shit in the universe. Convo runs ~2 min, sparks curiosity through scandal."
+}

@@ -1,0 +1,16 @@
+[Unit]
+Description=Argos play — the dog living in and exploring its world
+Wants=argos-world.service
+After=argos-world.service
+
+[Service]
+Type=simple
+WorkingDirectory=%h/argos
+Environment=PATH=%h/.local/go/bin:/usr/local/bin:/usr/bin:/bin
+Environment=ARGOS_WORLD=http://127.0.0.1:8088/index.html
+ExecStart=%h/argos/scripts/live.sh
+Restart=always
+RestartSec=2
+
+[Install]
+WantedBy=default.target

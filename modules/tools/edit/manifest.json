@@ -1,0 +1,8 @@
+{
+  "name": "edit",
+  "school": "wild",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/wild/edit"],
+  "reads": "text",
+  "description": "Argos edits files. Reads a file, writes a file, or patches a file. Input: {path, action: \"read\"|\"write\"|\"patch\", content?, old_string?, new_string?}"
+}

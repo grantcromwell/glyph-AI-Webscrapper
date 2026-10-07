@@ -1,0 +1,8 @@
+{
+  "name": "logic-analyze",
+  "school": "wild",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/wild/logic-analyze"],
+  "reads": "text",
+  "description": "Argos captures and analyzes logic signals. Uses sigrok/PulseView for protocol decoding (SPI, I2C, UART, CAN, 1-Wire). Input: {action: \"capture\"|\"decode\"|\"analyze\", protocol, duration, channels}"
+}

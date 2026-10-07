@@ -1,0 +1,8 @@
+{
+  "name": "firmware-flash",
+  "school": "wild",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/wild/firmware-flash"],
+  "reads": "text",
+  "description": "Argos flashes firmware to microcontrollers. Supports OpenOCD, ST-Link, J-Link, and SWD protocols. Input: {action: \"flash\"|\"read\"|\"verify\"|\"erase\", target, file, interface}"
+}

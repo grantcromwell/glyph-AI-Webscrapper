@@ -1,0 +1,8 @@
+{
+  "name": "serial-debug",
+  "school": "wild",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/wild/serial-debug"],
+  "reads": "text",
+  "description": "Argos communicates over serial/UART. Open, configure, read, write, and log serial ports. Input: {action: \"list\"|\"open\"|\"read\"|\"write\"|\"monitor\", port, baud, data, args}"
+}

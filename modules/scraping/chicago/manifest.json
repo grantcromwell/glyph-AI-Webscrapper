@@ -1,0 +1,8 @@
+{
+  "name": "chicago",
+  "school": "scrying",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/scrying/chicago"],
+  "reads": "web",
+  "description": "Site-spell: brings back artworks (title, artist, medium, terms) from the Art Institute of Chicago API."
+}

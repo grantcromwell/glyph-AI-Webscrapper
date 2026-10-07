@@ -1,0 +1,8 @@
+{
+  "name": "spanish",
+  "school": "scrying",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/scrying/spanish"],
+  "reads": "web",
+  "description": "Reads the Hispanic world in Spanish: Xataka & El País Tecnología (engineering) and El País & El Mundo (human news) via blockless native RSS."
+}

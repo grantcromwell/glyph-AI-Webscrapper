@@ -1,0 +1,8 @@
+{
+  "name": "can-bus",
+  "school": "wild",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/wild/can-bus"],
+  "reads": "text",
+  "description": "Argos interfaces with CAN bus. Sniff, inject, filter, and analyze CAN frames. Supports SocketCAN and USB-CAN adapters. Input: {action: \"sniff\"|\"send\"|\"filter\"|\"analyze\"|\"bitrate\", interface, id, data, args}"
+}

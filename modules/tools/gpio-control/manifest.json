@@ -1,0 +1,8 @@
+{
+  "name": "gpio-control",
+  "school": "wild",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/wild/gpio-control"],
+  "reads": "text",
+  "description": "Argos controls GPIO, SPI, I2C, and other hardware peripherals. Uses sysfs, libgpiod, and direct device access. Input: {action: \"gpio\"|\"spi\"|\"i2c\"|\"pwm\"|\"adc\", pin, value, protocol_args}"
+}

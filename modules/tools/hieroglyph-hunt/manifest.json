@@ -1,0 +1,6 @@
+{
+  "name": "hieroglyph-hunt",
+  "description": "Hunt for non-English technical manuscripts using hieroglyphic encoding",
+  "version": "1.0.0",
+  "cmd": ["go", "run", "./grimoire/wild/hieroglyph-hunt/main.go"]
+}

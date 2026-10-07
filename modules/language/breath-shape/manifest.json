@@ -1,0 +1,8 @@
+{
+  "name": "breath-shape",
+  "school": "tongue",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/tongue/breath-shape"],
+  "reads": "text",
+  "description": "Decomposes text into mouth-physics breath-shapes and returns the glyph."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "arxiv",
+  "school": "scrying",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/scrying/arxiv"],
+  "reads": "web",
+  "description": "Site-spell: queries the arXiv export API for paper titles + abstracts."
+}

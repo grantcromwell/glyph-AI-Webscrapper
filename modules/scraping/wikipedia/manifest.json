@@ -1,0 +1,8 @@
+{
+  "name": "wikipedia",
+  "school": "scrying",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/scrying/wikipedia"],
+  "reads": "web",
+  "description": "Site-spell: queries Wikipedia's API for clean article extracts."
+}

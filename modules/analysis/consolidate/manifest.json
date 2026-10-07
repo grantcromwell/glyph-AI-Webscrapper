@@ -1,0 +1,8 @@
+{
+  "name": "consolidate",
+  "school": "reasoning",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/reasoning/consolidate"],
+  "reads": "lore",
+  "description": "Memory management: the dog merges memories with its nearest kin at a probability equal to their resonance, fusing alike clusters into single schemas. Count emerges from probability; only the mechanism is fixed. Like an animal reorganising recall in sleep."
+}

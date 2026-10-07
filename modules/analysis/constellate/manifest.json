@@ -1,0 +1,8 @@
+{
+  "name": "constellate",
+  "school": "reasoning",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/reasoning/constellate"],
+  "reads": "text",
+  "description": "Groups a set of items (lines/commas) into constellations by mutual glyph resonance, joining those above the set's own median kinship. Structure emerges from fragments; threshold derived from the data."
+}

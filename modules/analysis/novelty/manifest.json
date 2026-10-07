@@ -1,0 +1,8 @@
+{
+  "name": "novelty",
+  "school": "reasoning",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/reasoning/novelty"],
+  "reads": "lore",
+  "description": "How new a text is to the dog: novelty = 1 − the strongest resonance anything in memory has with it. Near 1 = unknown ground; near 0 = already known. The dog's edge of knowing."
+}

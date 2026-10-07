@@ -1,0 +1,8 @@
+{
+  "name": "feed",
+  "school": "wild",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/wild/feed"],
+  "reads": "text",
+  "description": "Feeds a directory of text files into Argos's memory as glyph engrams. Each .txt file becomes one remembered thing the dog can recall and speak about."
+}

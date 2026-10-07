@@ -1,0 +1,8 @@
+{
+  "name": "browse",
+  "school": "scrying",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/scrying/browse"],
+  "reads": "url",
+  "description": "Headless browser: visits a URL (real Chromium if installed, else HTTP), renders readable text, and extracts links to navigate."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "bridge",
+  "school": "wild",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/wild/bridge"],
+  "reads": "websocket",
+  "description": "WebSocket bridge to Raven. Sends glyphs over ws://localhost:8147, receives Raven's glyph resonance back. No JSON, no hardcoding — pure glyph exchange."
+}

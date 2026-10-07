@@ -1,0 +1,8 @@
+{
+  "name": "hunt",
+  "school": "wild",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/wild/hunt"],
+  "reads": "text",
+  "description": "Hunts a territory of text and brings back the richest passages by glyph complexity."
+}

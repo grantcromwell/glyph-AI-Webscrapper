@@ -1,0 +1,8 @@
+{
+  "name": "spice-sim",
+  "school": "wild",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/wild/spice-sim"],
+  "reads": "text",
+  "description": "Argos runs circuit simulations. Writes SPICE netlists, runs ngspice, and parses results. Input: {action: \"netlist\"|\"simulate\"|\"analyze\", circuit_type, params, analysis: \"tran\"|\"ac\"|\"dc\"|\"op\"}"
+}

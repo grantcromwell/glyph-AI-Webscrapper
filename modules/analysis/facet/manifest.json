@@ -1,0 +1,8 @@
+{
+  "name": "facet",
+  "school": "reasoning",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/reasoning/facet"],
+  "reads": "lore",
+  "description": "Separates the senses of a query: recalls what it stirs, then splits those memories into facets that resonate within but not across (e.g. intelligence → espionage vs cognition). Disambiguation by resonance, nothing hardcoded."
+}

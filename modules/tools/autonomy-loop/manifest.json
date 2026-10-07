@@ -1,0 +1,8 @@
+{
+  "name": "autonomy-loop",
+  "school": "wild",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/wild/autonomy-loop"],
+  "reads": "text",
+  "description": "Argos's autonomous EE loop. Wakes, assesses hardware, plans work, executes, and reports. Runs in cycles: sense -> plan -> act -> report -> sleep."
+}

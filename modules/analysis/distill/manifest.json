@@ -1,0 +1,8 @@
+{
+  "name": "distill",
+  "school": "reasoning",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/reasoning/distill"],
+  "reads": "text",
+  "description": "Slides a window across a long text and keeps the passage whose glyph is richest — the most information-dense grain. Salience from glyph richness, no wordlist."
+}

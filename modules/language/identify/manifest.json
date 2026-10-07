@@ -1,0 +1,8 @@
+{
+  "name": "identify",
+  "school": "tongue",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/tongue/identify"],
+  "reads": "lore",
+  "description": "Names the tongue a text is in by matching its phonological glyph against the babel bank (~2716 tongues). The dog names a language by its sound-shape, not a lookup table."
+}

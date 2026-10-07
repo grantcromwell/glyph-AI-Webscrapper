@@ -1,0 +1,8 @@
+{
+  "name": "eigen",
+  "school": "reasoning",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/reasoning/eigen"],
+  "reads": "text",
+  "description": "Eigenvector-centrality over a set of topics' glyph-resonance graph; finds the most central concept."
+}

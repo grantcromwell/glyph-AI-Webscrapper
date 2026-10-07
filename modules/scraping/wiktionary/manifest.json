@@ -1,0 +1,8 @@
+{
+  "name": "wiktionary",
+  "school": "scrying",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/scrying/wiktionary"],
+  "reads": "web",
+  "description": "Site-spell: traces a word's real etymology (PIE -> historical -> current) from Wiktionary."
+}

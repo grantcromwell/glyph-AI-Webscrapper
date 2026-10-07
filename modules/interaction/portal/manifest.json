@@ -1,0 +1,8 @@
+{
+  "name": "portal",
+  "school": "play",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/play/portal"],
+  "reads": "text",
+  "description": "The dog's hand into the game: steps through to the headless world server (localhost HTTP), reads the place it lands in (title, text) and the paths leading onward (links), and paints the place's glyph. The modular seam — swap this spell to play a different world."
+}

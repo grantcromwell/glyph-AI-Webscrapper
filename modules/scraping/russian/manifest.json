@@ -1,0 +1,8 @@
+{
+  "name": "russian",
+  "school": "scrying",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/scrying/russian"],
+  "reads": "web",
+  "description": "Reads Russia in Russian: Habr & N+1 (engineering/science) and Lenta & RIA (human news) via blockless native RSS. Unfiltered by English."
+}

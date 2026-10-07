@@ -1,0 +1,29 @@
+# Build artifacts
+target/
+build/
+*.o
+*.vvp
+bin/
+
+# Large data
+weights/
+memory/
+data/lore/
+corpus/
+chrome/*.zip
+
+# Embedded git repos
+graph/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Refactor scripts
+refactor*.py
+fix_*.py
+modules/language/phoible/phoible.csv

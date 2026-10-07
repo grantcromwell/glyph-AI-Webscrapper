@@ -1,0 +1,8 @@
+{
+  "name": "bridge",
+  "school": "reasoning",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/reasoning/bridge"],
+  "reads": "lore",
+  "description": "How is A connected to B? Multi-hop best-first walk over memory's resonance graph, tracing the chain of remembered concepts that links the two."
+}

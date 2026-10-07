@@ -1,0 +1,8 @@
+{
+  "name": "analogy",
+  "school": "reasoning",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/reasoning/analogy"],
+  "reads": "lore",
+  "description": "A is to B as C is to ? — builds the target glyph B−A+C on the logogram plane and recalls the known concept nearest that point. Relational inference from glyph geometry."
+}

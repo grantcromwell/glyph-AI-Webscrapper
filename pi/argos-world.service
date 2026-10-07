@@ -1,0 +1,15 @@
+[Unit]
+Description=Argos world — the headless game (generates + serves the world)
+After=default.target
+
+[Service]
+Type=simple
+WorkingDirectory=%h/argos
+Environment=PATH=%h/.local/go/bin:/usr/local/bin:/usr/bin:/bin
+# prefer the built binary; fall back to `go run` if it isn't compiled yet
+ExecStart=/bin/bash -lc 'cd %h/argos && if [ -x ./bin/world ]; then exec ./bin/world serve -addr 127.0.0.1:8088 -dir %h/argos/world; else exec go run ./cmd/world serve -addr 127.0.0.1:8088 -dir %h/argos/world; fi'
+Restart=always
+RestartSec=2
+
+[Install]
+WantedBy=default.target

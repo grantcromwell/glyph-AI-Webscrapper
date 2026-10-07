@@ -1,0 +1,8 @@
+{
+  "name": "skim",
+  "school": "scrying",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/scrying/skim"],
+  "reads": "url",
+  "description": "Quick read: one HTTP GET of a static page, then title, text, and links — no browser, no JavaScript. The light counterpart to browse."
+}

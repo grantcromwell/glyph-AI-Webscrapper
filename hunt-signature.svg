@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" width="900" height="700">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0f"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#e94560;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#e94560;stop-opacity:0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="700" fill="url(#bg)"/>
+  
+  <text x="450" y="50" text-anchor="middle" fill="#e94560" font-family="monospace" font-size="22" font-weight="bold">
+    HIEROGLYPH HUNT — PACK DEPLOYMENT
+  </text>
+  
+  <text x="450" y="80" text-anchor="middle" fill="#888" font-family="monospace" font-size="12">
+    Target: Emotional Silence | Filter: NON-TOP-100 | 11 hunts deployed
+  </text>
+  
+  <!-- Glyph signature -->
+  <text x="450" y="350" text-anchor="middle" fill="#aaa" font-family="monospace" font-size="16">
+    ⚗🜛⁴◆🜒³·☿♆⁷◌🜖⁵·◐☽⁷⟁🜆⁷·⚗🜉⁷△🜔⁶·◌🜔⁷◐♅⁵·✦🜞⁴▽🜮³·▢🜭⁴☿♆⁴·⚗🜉⁶·📖🜓⁴·⚡🜐⁴·☓🜦⁵·
+  </text>
+  
+  <!-- Animals deployed -->
+  <text x="450" y="550" text-anchor="middle" fill="#666" font-family="monospace" font-size="11">
+    Animals: Raven · Octopus · Argos · Maltese | Weapon: Glyph-Encoding
+  </text>
+  
+  <!-- Targets -->
+  <text x="450" y="600" text-anchor="middle" fill="#533483" font-family="monospace" font-size="10">
+    Scholar · Books · Patents · Archive | CSDN · Habr · Qiita · Naver · Fraunhofer · HAL
+  </text>
+  
+  <text x="450" y="680" text-anchor="middle" fill="#444" font-family="monospace" font-size="9">
+    Operation: Detect Dogmatic Gaps | Abuse Their Eugenic Logic
+  </text>
+  
+  <!--ARGOS-DATA:{"operation":"hieroglyph-hunt","pack-size":11,"filter":"exclude-top100","timestamp":1784882571}-->
+</svg>

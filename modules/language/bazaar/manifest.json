@@ -1,0 +1,8 @@
+{
+  "name": "bazaar",
+  "school": "tongue",
+  "lang": "go",
+  "cmd": ["go", "run", "./grimoire/tongue/bazaar"],
+  "reads": "text",
+  "description": "Argos hears the bazaar. Fetches latest glyphs from the pool, filters out its own, feeds each foreign glyph through the lingua organ to coin logograms. Returns what Argos learned."
+}
